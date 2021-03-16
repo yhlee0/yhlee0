@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=&height=100&section=header&text=Yeonhwa%20Lee&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=&height=150&section=header&text=Yeonhwa%20Lee&fontSize=50)
 <!---
 yhlee0/yhlee0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
